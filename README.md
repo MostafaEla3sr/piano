@@ -1,16 +1,9 @@
-# piano
+# Piano App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple piano app developed using Flutter. The application allows users to play music with piano.
 
-This project is a starting point for a Flutter application.
+## Screenrecord
+https://github.com/MostafaEla3sr/piano/assets/73349514/28412cef-461b-41d5-aef8-8ffab44eb6bc
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
