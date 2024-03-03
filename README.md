@@ -1,4 +1,4 @@
-# Piano App
+# Piano App 🎹
 
 ## Overview
 
